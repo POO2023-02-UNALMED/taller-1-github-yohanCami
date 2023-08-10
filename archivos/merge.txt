@@ -1,0 +1,1 @@
+Cuando creamos o tenemos una carpeta vacia git no la toma en cuenta para el commit por ende tampoco se va a subir
