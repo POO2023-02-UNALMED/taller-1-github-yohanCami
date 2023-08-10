@@ -2,3 +2,5 @@ Yohan Camilo Sànchez Meza
 19 años
 Aspiro aprender sobre la programaciòn orientada a objetos y saberla utilizar dentro de mi vida laboral
 Cuando creamos o tenemos una carpeta vacia git no la toma en cuenta para el commit por ende tampoco se va a subir
+
+LEs importante porque se podrìan cometer errores como este, donde se encuentren conflictos y se tengan que resolver para poder subir el archivo/còdigo al repositorio
