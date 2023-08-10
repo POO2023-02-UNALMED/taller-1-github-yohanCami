@@ -1,0 +1,1 @@
+Dentro de GitHub Desktop no se visualizaba la carpeta, parecia que no existiera
